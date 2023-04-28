@@ -287,6 +287,11 @@ transform: none;
 .webmap{
   display: flex;
 }
+.four {
+ font-size: 15px;
+ text-align: center;
+ color: white;
+}
 .row1{
 display: flex;
 align-items: center;
